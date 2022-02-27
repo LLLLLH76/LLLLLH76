@@ -1,5 +1,4 @@
 - 👋 Hi, I’m LLH.
 - 🌱 I’m currently learning Machine Learning and Reinforcement Learning.
 - 👀 I’m interested in doing sports and playing computer games.
-- 📫 How to reach me: email me at 1666904989@qq.com
-- ⚡ Fun fact: I’m handsome.
+- 📫 How to reach me: email me at lilh@smail.nju.edu.cn
